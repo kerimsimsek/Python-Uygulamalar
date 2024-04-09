@@ -1,0 +1,50 @@
+1. Python'da Temel Veri Türleri ve Operatörler
+2. Python'da Koşullu İfadeler ve Karar Yapıları
+3. Döngüler ve Python'da Kullanımı
+4. Python Fonksiyonları ve Parametreleri
+5. Modüller ve Paketlerin Kullanımı Python'da
+6. Dosya İşlemleri ve Python
+7. Hata Yakalama ve İstisnalar (Exceptions) Python'da
+8. Nesne Yönelimli Programlama (OOP) ve Python
+9. Python'da String İşlemleri ve Metodları
+10. Python Listeleri ve Kullanımları
+11. Python Sözlüklerinin Kullanımı ve Örnekler
+12. Python Kümeleri (Sets) ve Kullanım Alanları
+13. Python Tuple'ları ve Özellikleri
+14. Python'da Dosya Okuma ve Yazma İşlemleri
+15. Veri Analizi ve İstatistikler Python'da Nasıl Yapılır
+16. Pandas Kütüphanesi ve Veri Analizi İçin Kullanımı
+17. Veri Görselleştirme ve Matplotlib Kütüphanesi
+18. Veri Analizi için NumPy Kütüphanesi ve Kullanımı
+19. Python ile Makine Öğrenmesi (Machine Learning) Giriş
+20. Python ile TensorFlow ve Derin Öğrenme (Deep Learning)
+21. Flask Framework ile Web Geliştirme
+22. Django Framework ve Web Uygulama Geliştirme
+23. Veri Tabanı Bağlantısı ve SQLite Kullanımı Python'da
+24. Web Scraping ve Beautiful Soup Kütüphanesi Kullanımı
+25. Veri Görselleştirme için Seaborn Kütüphanesi
+26. PyQt5 ile Desktop Uygulama Geliştirme
+27. Pygame ile Oyun Geliştirme
+28. Veri Yapıları ve Algoritmalar Python'da
+29. Multithreading ve Python'da Kullanımı
+30. Asenkron Programlama ve Asyncio Kütüphanesi
+31. RegEx ve Python'da Kullanımı
+32. Veri Analizi için SciPy Kütüphanesi
+33. Python'da Dosya Sıkıştırma ve Arşivleme İşlemleri
+34. Python'da Veri Güvenliği ve Şifreleme
+35. Flask ile RESTful API Geliştirme
+36. SQLAlchemy Kütüphanesi ve Veritabanı İşlemleri
+37. Django ORM ve Veritabanı Etkileşimi
+38. Veri Analizi için Scikit-learn Kütüphanesi
+39. Veri Görselleştirme için Plotly Kütüphanesi
+40. Python ile GUI Tasarımı ve Tkinter Kullanımı
+41. Python'da Bellek Yönetimi ve Performans İyileştirmeleri
+42. Python ile Veri Madenciliği ve Kullanım Alanları
+43. Veri Analizi için Jupyter Notebook Kullanımı
+44. Python'da Dosya İşleme ve Yönetimi
+45. Network Programlama ve Python Kullanımı
+46. Python ile Veri Yapıları ve Algoritmalar Uygulamaları
+47. Django REST Framework ile API Geliştirme
+48. Python ile Veri Görselleştirme ve Haritalama
+49. Python ile Doğal Dil İşleme (NLP) Uygulamaları
+50. Python'da Test Otomasyonu ve Kullanımı
